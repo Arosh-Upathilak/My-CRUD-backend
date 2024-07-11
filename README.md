@@ -1,4 +1,4 @@
-# Nodejs app with rest and graphql example Practice Deployment Purpose
+# Nodejs app for the example Practice Deployment Purpose
 
 An example of GraphQL queries/mutations with Node and Express js.
 
