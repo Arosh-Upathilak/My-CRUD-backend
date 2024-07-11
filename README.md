@@ -8,5 +8,12 @@ Rest API Endpoint for get all users: http://localhost:4000/rest/getAllUsers
 
 GraphQL Endpont: http://localhost:4000/graphql
 
+## Deployment
+
+This project is used for deployment purposes.
+
+Deployment Link: [http://13.60.30.95:3000/](http://13.49.238.239:3000/)
+
+
 
 
